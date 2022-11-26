@@ -3,7 +3,7 @@
         În cadrul acestui proiect, am realizat baza de date a unui club de fitness.
     
     
-    Persoanele care fac parte din baza de date a clubului de fitness dețin un abonament, 
+Persoanele care fac parte din baza de date a clubului de fitness dețin un abonament, 
 care are o dată de start, o dată de final, un tip (Bronze, Platinum, Gold) și un preț sau o invitație, 
 primită de la o persoană care deține un abonament, invitația având doar o dată de start, care 
 coincide cu data de final, deoarece aceasta este valabilă o singură zi. Astfel, odată ce deține una 
